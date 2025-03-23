@@ -9,15 +9,29 @@ Google Sheets (for data cleaning and pivot tables)
 Lucidchart (for schema mapping)
 Tableau (for visualizations)
 # Project Structure
-1. Schema Mapping: Mapped dataset schema using Lucidchart.
-2. Database Creation for SQL: Created CSV files in Google Sheets and uploaded them for use in PostgreSQL.
-3. SQL Queries: Queried and analyzed data in PostgreSQL.
-4. Tableau Visualizations: Visualized insights for easy interpretation and analysis.
-5. Database Creation for Pivot Tables: Structured data for pivot table analysis.
-6. Data Cleaning: Cleaned and organized the "Product Sold" and "Product Ingredients" datasets.
-7. Pivot Table Analysis: Analyzed Most Popular Product Base Flavors (PBF), Most Popular PBF by Venue, and Best-Selling Add-In Categories for the Top 3 PBFs
-# How to View or Run the Project
-Explore my data project on my GitHub Pages website: https://dianejchang.github.io/
+### 1. Schema Mapping: Mapped dataset schema using [Lucidchart](https://lucid.app/lucidchart/65d81d18-85f0-41ac-aff4-e9153c4f1761/edit?viewport_loc=-5722%2C-1116%2C3322%2C1544%2C0_0&invitationId=inv_2e977881-06d9-4d07-a977-745d6fc981fa)
+### 2. Database Creation for SQL: Created CSV files in [Google Sheets](https://docs.google.com/spreadsheets/d/1XWDW-rlg2smpr5kfeQ3M3IfVQq9Lwmq0sefOD8G5xSw/edit?gid=2025780335#gid=2025780335) and uploaded them for use in PostgreSQL
+### 3. SQL Queries: [Queried and analyzed 2024 sales data](https://github.com/dianejchang/Cookie-Cazimi/blob/main/Cookie%20Cazimi%202024%20Sales.sql) in PostgreSQL.
+### 4. Tableau Visualizations: Visualized insights for easy interpretation and analysis
+- [Summary](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/Summary)
+- [Conclusion](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/Conclusion)
+- [2024 Sales Overview](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/2024SalesOverview)
+- [Sales by Venue](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/SalesbyVenue)
+- [Best Selling Product Base Flavors (PBF)](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/BestSellingProductBaseFlavorsPBF_1)
+- [Best Selling Add-Ins](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/BestSellingAdd-Ins)
+- [Signature PBF Add-Ins](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/SignaturePBFAdd-Ins)
+- [Lemon PBF Add-Ins](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/LemonPBFAdd-Ins)
+- [Choc PBF Add-Ins](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/ChocPBFAdd-Ins)
+### 5. Database Creation for Pivot Tables: Structured data for pivot table analysis - 
+- [Product Sold (original)](https://docs.google.com/spreadsheets/d/1OsPwNVErjDuB6vxbAGwtE_Lntyod4CCz6DLKGRFDTyo/edit?gid=8254207#gid=8254207)
+- [Product Ingredients (original)](https://docs.google.com/spreadsheets/d/1OsPwNVErjDuB6vxbAGwtE_Lntyod4CCz6DLKGRFDTyo/edit?gid=424442305#gid=424442305)
+### 6. Data Cleaning: Cleaned and organized the following datasets
+- [Product Sold](https://docs.google.com/spreadsheets/d/1OsPwNVErjDuB6vxbAGwtE_Lntyod4CCz6DLKGRFDTyo/edit?gid=122741989#gid=122741989)
+- [Product Ingredients](https://docs.google.com/spreadsheets/d/1OsPwNVErjDuB6vxbAGwtE_Lntyod4CCz6DLKGRFDTyo/edit?gid=1784493945#gid=1784493945)
+### 7. Pivot Table Analysis: Analyzed Most Popular Product Base Flavors (PBF), Most Popular PBF by Venue, and Best-Selling Add-In Categories for the Top 3 PBFs
+- [Most Popular Product Base Flavors](https://docs.google.com/spreadsheets/d/1OsPwNVErjDuB6vxbAGwtE_Lntyod4CCz6DLKGRFDTyo/edit?gid=1534329371#gid=1534329371) (using clean Product Sold data)
+- [Most Popular Product Base Flavors by Venue](https://docs.google.com/spreadsheets/d/1OsPwNVErjDuB6vxbAGwtE_Lntyod4CCz6DLKGRFDTyo/edit?gid=914106830#gid=914106830) (using clean Product Sold data)
+- [Best Selling Add-ins for Top 3 Product Base Flavors](https://docs.google.com/spreadsheets/d/1OsPwNVErjDuB6vxbAGwtE_Lntyod4CCz6DLKGRFDTyo/edit?gid=155571409#gid=155571409) (using clean Product Ingredients data)
 # Key Insights
 The top three Product Base Flavors (PBF) in 2024 were Signature, Lemon, and Chocolate.
 Lemon had the least add-in category variation but still ranked in the top two.
@@ -33,4 +47,4 @@ My name is Diane Chang and I am a data analyst with 9+ years experience transfor
 
 At my core, I am an investigator. I dig deep and connect the dots to extract meaningful insights, enabling teams to make informed decisions. I excel at cataloging information to help visualize complex problems, creating colorful dashboards, and obsessing over details that can drive strategic decisions.
 
-## Let's connect on LinkedIn: https://www.linkedin.com/in/dianejchang/
+#### Let's connect on LinkedIn: https://www.linkedin.com/in/dianejchang/
