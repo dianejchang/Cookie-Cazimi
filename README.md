@@ -1,16 +1,17 @@
 # Overview
 This repository contains an analysis of past sales data from my home bakery, Cookie Cazimi, aimed at identifying the flavor preferences of my local community. The goal is to determine which product base flavors and add-in categories best align with customer tastes and prioritize them for the upcoming year.
+
 Each week, I offer a rotating selection of cookie flavors at the local farmers market, which operates from April to the end of November. This data will guide my 2025 weekly offerings to increase revenue and help establish a standard menu by 2026.
 # Data Sources
-Data was collected via two Point of Sales systems, Square and HotPlate, between May to December 2024.
+Data was collected via two Point of Sales systems, Square and HotPlate, between May and December 2024.
 # Tools & Technologies
-GitHub Pages (for portfolio hosting and SQL documentation)
-Google Sheets (for data cleaning and pivot tables)
-Lucidchart (for schema mapping)
-Tableau (for visualizations)
+- GitHub Pages (for portfolio hosting and SQL documentation)
+- Google Sheets (for data cleaning and pivot tables)
+- Lucidchart (for schema mapping)
+- Tableau (for visualizations)
 # Project Structure
-### 1. Schema Mapping: Mapped dataset schema using [Lucidchart](https://lucid.app/lucidchart/65d81d18-85f0-41ac-aff4-e9153c4f1761/edit?viewport_loc=-5722%2C-1116%2C3322%2C1544%2C0_0&invitationId=inv_2e977881-06d9-4d07-a977-745d6fc981fa)
-### 2. Database Creation for SQL: Created CSV files in [Google Sheets](https://docs.google.com/spreadsheets/d/1XWDW-rlg2smpr5kfeQ3M3IfVQq9Lwmq0sefOD8G5xSw/edit?gid=2025780335#gid=2025780335) and uploaded them for use in PostgreSQL
+### 1. Schema Mapping: [Mapped dataset schema](https://drive.google.com/file/d/1VHe8FHuB_1ELHzrgR6Q9j8C-r-a2YhZL/view?usp=sharing) using Lucidchart
+### 2. Database Creation for SQL: [Created CSV files in Google Sheets](https://docs.google.com/spreadsheets/d/1XWDW-rlg2smpr5kfeQ3M3IfVQq9Lwmq0sefOD8G5xSw/edit?gid=2025780335#gid=2025780335) to upload in PostgreSQL
 ### 3. SQL Queries: [Queried and analyzed 2024 sales data](https://github.com/dianejchang/Cookie-Cazimi/blob/main/Cookie%20Cazimi%202024%20Sales.sql) in PostgreSQL.
 ### 4. Tableau Visualizations: Visualized insights for easy interpretation and analysis
 - [Summary](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/Summary)
@@ -47,4 +48,4 @@ My name is Diane Chang and I am a data analyst with 9+ years experience transfor
 
 At my core, I am an investigator. I dig deep and connect the dots to extract meaningful insights, enabling teams to make informed decisions. I excel at cataloging information to help visualize complex problems, creating colorful dashboards, and obsessing over details that can drive strategic decisions.
 
-#### Let's connect on LinkedIn: https://www.linkedin.com/in/dianejchang/
+#### [Let's connect on LinkedIn!](https://www.linkedin.com/in/dianejchang/)
