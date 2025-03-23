@@ -12,7 +12,7 @@ Data was collected via two Point of Sales systems, Square and HotPlate, between 
 # Project Structure
 ### 1. Schema Mapping: [Mapped dataset schema](https://drive.google.com/file/d/1VHe8FHuB_1ELHzrgR6Q9j8C-r-a2YhZL/view?usp=sharing) using Lucidchart
 ### 2. Database Creation for SQL: [Created CSV files in Google Sheets](https://docs.google.com/spreadsheets/d/1XWDW-rlg2smpr5kfeQ3M3IfVQq9Lwmq0sefOD8G5xSw/edit?gid=2025780335#gid=2025780335) to upload in PostgreSQL
-### 3. SQL Queries: [Queried and analyzed 2024 sales data](https://github.com/dianejchang/Cookie-Cazimi/blob/main/Cookie%20Cazimi%202024%20Sales.sql) in PostgreSQL.
+### 3. SQL Queries: [Queried and analyzed 2024 sales](https://github.com/dianejchang/Cookie-Cazimi/blob/main/2024%20Sales.sql) in PostgreSQL.
 ### 4. Tableau Visualizations: Visualized insights for easy interpretation and analysis
 - [Summary](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/Summary)
 - [Conclusion](https://public.tableau.com/app/profile/diane.chang/viz/CookieCazimi/Conclusion)
