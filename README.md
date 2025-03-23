@@ -5,10 +5,11 @@ Each week, I offer a rotating selection of cookie flavors at the local farmers m
 # Data Sources
 Data was collected via two Point of Sales systems, Square and HotPlate, between May and December 2024.
 # Tools & Technologies
-- GitHub Pages (for portfolio hosting and SQL documentation)
-- Google Sheets (for data cleaning and pivot tables)
-- Lucidchart (for schema mapping)
-- Tableau (for visualizations)
+- GitHub Pages for project hosting and SQL documentation
+- Google Sheets for data cleaning, pivot tables, and visualizations
+- Lucidchart for schema mapping
+- PostgreSQL for SQL queries
+- Tableau for visualizations
 # Project Structure
 ### 1. Schema Mapping: [Mapped dataset schema](https://drive.google.com/file/d/1VHe8FHuB_1ELHzrgR6Q9j8C-r-a2YhZL/view?usp=sharing) using Lucidchart
 ### 2. Database Creation for SQL: [Created CSV files in Google Sheets](https://docs.google.com/spreadsheets/d/1XWDW-rlg2smpr5kfeQ3M3IfVQq9Lwmq0sefOD8G5xSw/edit?gid=2025780335#gid=2025780335) to upload in PostgreSQL
