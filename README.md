@@ -35,15 +35,25 @@ Data was collected via two Point of Sales systems, Square and HotPlate, between 
 - [Most Popular Product Base Flavors by Venue](https://docs.google.com/spreadsheets/d/1OsPwNVErjDuB6vxbAGwtE_Lntyod4CCz6DLKGRFDTyo/edit?gid=914106830#gid=914106830) (using clean Product Sold data)
 - [Best Selling Add-ins for Top 3 Product Base Flavors](https://docs.google.com/spreadsheets/d/1OsPwNVErjDuB6vxbAGwtE_Lntyod4CCz6DLKGRFDTyo/edit?gid=155571409#gid=155571409) (using clean Product Ingredients data)
 # Key Insights
-The top three Product Base Flavors (PBF) in 2024 were Signature, Lemon, and Chocolate.
-Lemon had the least add-in category variation but still ranked in the top two.
-Chocolate offered the most add-in variations, especially with fillings, flavorings, and miscellaneous options.
-## 2025 Strategy
-- Ensure each weekly menu includes cookies with filling, fruit, nuts, or a combination (e.g., fruit and filling).
-- Track sales performance of these add-ins versus those without to identify best-sellers.
-- After gathering enough data, introduce new add-ins like butterscotch chips, dehydrated marshmallows, and toffee bits to test future potential.
+### The top 3 Product Base Flavors (PBF) in 2024 were Signature, Lemon, and Chocolate.
+- **Signature PBF:** Chocolate and Fruit were the most popular Add-Ins.
+    - Chocolate Chip and White Chocolate Berry were the best sellers
+- **Lemon PBF:** Fruit was the most popular Add-In.
+    - Lemon Blueberry and Lemon Raspberry were the best sellers.
+    - Despite having the least add-in variety, Lemon PBF maintained high popularity.
+- **Chocolate PBF:** Chocolate and Nuts were the most popular Add-Ins.
+    - Double Chocolate Chip and Turtle were the best sellers.
+    - Chocolate PBF offered the most add-in variety with more fillings and miscellaneous options than the Signature or Lemon PBFs did.
+
+### This analysis has helped narrow down key focus areas for product offerings in 2025.
+- Every market day showing will have Signature, Lemon, and Chocolate PBFs.
+    - **Fruit Add-In options for Chocolate PBF** will be expanded due to its popularity in Signature and Lemon PBFs.
+    - **Chocolate Add-In options for Lemon PBF** will be increased, following its success in Signature and Chocolate PBFs.
+    - **Nut and Filling Add-In options for Signature and Lemon PBFs** will be extended based on the mild success seen in Chocolate PBF.
+- Fruit, Nut, and Filling Add-In options will be available regardless of PBF.
+- A known 2024 Best Seller will be at every market day to boost sales and mitigate possible underselling options.
 # Updates
-This repository will be updated with 2025 sales data, allowing for a comparison of how the new flavor offerings perform based on the 2024 insights.
+This repository will be updated with 2025 sales data to assess how the 2025 strategy performs based on 2024 insights.
 # About Me
 My name is Diane Chang and I am a data analyst with 9+ years experience transforming data into actionable insights.
 
