@@ -37,7 +37,7 @@ Data was collected via two Point of Sales systems, Square and HotPlate, between 
 # Key Insights
 ### The top 3 Product Base Flavors (PBF) in 2024 were Signature, Lemon, and Chocolate.
 - **Signature PBF:** Chocolate and Fruit were the most popular Add-Ins.
-    - Chocolate Chip and White Chocolate Berry were the best sellers
+    - Chocolate Chip and White Chocolate Berry were the best sellers.
 - **Lemon PBF:** Fruit was the most popular Add-In.
     - Lemon Blueberry and Lemon Raspberry were the best sellers.
     - Despite having the least add-in variety, Lemon PBF maintained high popularity.
@@ -53,7 +53,7 @@ Data was collected via two Point of Sales systems, Square and HotPlate, between 
 - Fruit, Nut, and Filling Add-In options will be available regardless of PBF.
 - A known 2024 Best Seller will be at every market day to boost sales and mitigate possible underselling options.
 # Updates
-This repository will be updated with 2025 sales data to assess how the 2025 strategy performs based on 2024 insights.
+This repository will be updated with 2025 sales data to assess how the upcoming strategy performs based on the 2024 insights.
 # About Me
 My name is Diane Chang and I am a data analyst with 9+ years experience transforming data into actionable insights.
 
