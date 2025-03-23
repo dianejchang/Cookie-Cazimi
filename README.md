@@ -47,9 +47,9 @@ Data was collected via two Point of Sales systems, Square and HotPlate, between 
 
 ### This analysis has helped narrow down key focus areas for product offerings in 2025.
 - Every market day showing will have Signature, Lemon, and Chocolate PBFs.
-    - **Fruit Add-In options for Chocolate PBF** will be expanded due to its popularity in Signature and Lemon PBFs.
-    - **Chocolate Add-In options for Lemon PBF** will be increased, following its success in Signature and Chocolate PBFs.
     - **Nut and Filling Add-In options for Signature and Lemon PBFs** will be extended based on the mild success seen in Chocolate PBF.
+    - **Chocolate Add-In options for Lemon PBF** will be increased, following its success in Signature and Chocolate PBFs.
+    - **Fruit Add-In options for Chocolate PBF** will be expanded due to its popularity in Signature and Lemon PBFs.
 - Fruit, Nut, and Filling Add-In options will be available regardless of PBF.
 - A known 2024 Best Seller will be at every market day to boost sales and mitigate possible underselling options.
 # Updates
